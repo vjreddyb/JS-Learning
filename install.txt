@@ -1,0 +1,1 @@
+#>brew reinstall --cask visual-studio-code
